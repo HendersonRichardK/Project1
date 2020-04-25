@@ -23,3 +23,5 @@ for i in range (3):
   ```
 
 > "Fintech is my favorite subject"
+
+![](https://github.com/HendersonRichardK/Project1/blob/master/Merger.jpg)
