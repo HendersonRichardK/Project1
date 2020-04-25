@@ -11,3 +11,13 @@ NORMAL
 **NORMAL**
 
 The project is to demo Github
+
+for i in range (3):
+    print(i)
+
+
+```
+  for i in range (3):
+    print(i)
+  
+  ```
